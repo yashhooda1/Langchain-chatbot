@@ -5,7 +5,7 @@
 
 cd your-path-to-the-folder-where-your-files-are-located.
 
-for example: cd C:\Users\yashh\OneDrive\Desktop\Langchain-chatbot
+for example: cd C:\Users\yashh\OneDrive\Desktop\TogetherAI-Agent
 
 python main.py
 
