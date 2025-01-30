@@ -1,4 +1,4 @@
-## Instructions on running the chatbot
+## Instructions on running the AI Agent
 
 # Step 1: Download all the files onto your computer and put them all in the same folder on your computer.
 # Step 2: Open Visual Studio Code or any python ide and go to terminal/bash and type in the following commands.
